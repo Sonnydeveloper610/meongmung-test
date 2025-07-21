@@ -87,7 +87,7 @@ function App() {
     <div
       style={{
         maxWidth: 500, width: "100%", minHeight: "100vh", margin: "0 auto",
-        background: "#fffaff", fontFamily: "Pretendard, sans-serif",
+        background: "#fffaff", padding: 56px, 0, 0, 0, fontFamily: "Pretendard, sans-serif",
         display: "flex", flexDirection: "column", alignItems: "center"
       }}
     >
