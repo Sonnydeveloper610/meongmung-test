@@ -1,0 +1,27 @@
+{
+  "start": "Get Started",
+  "question1": "What's my role when I'm with friends?",
+  "answers1": ["🎉 Gen Z Energy Generator", "👏 Reaction Master", "👀 Observer", "🧑‍💼 Big Brother/Sister Leader"],
+  "question2": "What's your weekend style?",
+  "answers2": ["🏠 Homebody", "☕️ Cafe Insider", "🐾 Walking Master", "🛏 Binge-watching Dramas in Bed"],
+  "question3": "What meme/reaction image do you use most?",
+  "answers3": ["🥲 'Is this even a country?' meme", "💥 Wise saying generator meme", "😂 Shiba Inu expression meme", "😎 'Job secured golden spoon' meme"],
+  "question4": "What's your personal healing method when times are tough?",
+  "answers4": ["😂 Infinite replay of meme videos", "🔥 Setting group chats on fire", "🎧 Listening to music before sleep", "🐶 Watching puppy videos"],
+  "question5": "What do people often say when they see you?",
+  "answers5": ["⚡️ High-energy super insider", "😹 Funniest person in the world", "🍬 Sweetness level maxed", "🧠 Brain-sexy guy/girl"],
+  "question6": "If you suddenly struck it rich, what's the first thing you'd do?",
+  "answers6": ["🐾 Go traveling right away!", "🛒 Shopping for things I wanted", "😎 Invest/plan", "🎁 Flex to people around me"],
+  "question7": "Which dog meme do you feel closest to?",
+  "answers7": ["😁 Beagle energy explosion", "🐕‍🦺 Shiba Inu level coolness", "🐩 Maltese cuteness", "🦮 Golden Retriever's gentle nature"],
+  "loading": "Analyzing results...",
+  "show_result": "Show Results",
+  "copy_alert": "URL has been copied!",
+  "share_result": "Share Results",
+  "share_app": "Share App",
+
+  "result1": "🪩🤪🐶 Hyperactive Beagle Life 🐶🤪🪩\nYou who throws the world into chaos with your energy today too!\n• TMI machine gun, joke speed 5G\n• Unlimited presence anywhere in the neighborhood\n• 'Showing off' mode activated anytime\n• Responsible for happiness virus + group screaming!\n✨ Real Beagle Tip: I'll take responsibility even for awkward moments.\n'Woof-woof Big Bang'🌟",
+  "result2": "😏🐕‍🦺 Chic Shiba Super Insider 🐕‍🦺😏\nThe aesthetics of tsundere, pretending to be cool while liking to play alone,\nbut when you accidentally burst into laughter, it's a real laugh-holding challenge!\n• \"Ah, this is a bit... 😐\"\n• Casually touching friends' hearts\n• Internal friendship king, external tsundere\n✨ Shiba Tip: Even your about-to-devour expression is cute!\n\"Everyone becomes my servant to my charm\"",
+  "result3": "💫🐩 Fluffy Maltese Fairy 🐩💫\nAdorable know-it-all, mysteriously even stubbornness looks cute!\n• Selfish but loved\n• Aegyo, shyness, ambition set menu\n• \"If it's cute, all is forgiven\" stamp!\n✨ Malti Tip: Sometimes boldly turn on fluffy potential\n\"Even after talking and talking, cuteness remains\"",
+  "result4": "🥹🦮 Sweet Golden Retriever Praise Bot 🦮🥹\nIrresistible healing teacher! Quiet cheerleader rather than meddling and nagging\n• Once you look at them, all is forgiven\n• World's kindest, mint-chocolate level love-it-or-hate-it\n• Reliable staying till the end\n✨ Retriever Tip: \"Are you feeling good today too, woof?\"\nSeriously challenging the blessed life!"
+}

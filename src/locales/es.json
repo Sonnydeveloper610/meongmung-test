@@ -1,0 +1,27 @@
+{
+  "start": "Empezar",
+  "question1": "¿Cuál es mi rol cuando estoy con amigos?",
+  "answers1": ["🎉 Generador de Energía Gen Z", "👏 Maestro de Reacciones", "👀 Observador", "🧑‍💼 Líder Hermano/a Mayor"],
+  "question2": "¿Cuál es tu estilo de fin de semana?",
+  "answers2": ["🏠 Casero/a", "☕️ Insider de Cafeterías", "🐾 Maestro del Paseo", "🛏 Maratón de Dramas en la Cama"],
+  "question3": "¿Qué meme/imagen usas más?",
+  "answers3": ["🥲 Meme de '¿Esto es un país?'", "💥 Meme generador de frases sabias", "😂 Meme de expresión Shiba Inu", "😎 Meme de 'Trabajo asegurado cuchara de oro'"],
+  "question4": "¿Cuál es tu método personal de sanación cuando las cosas se ponen difíciles?",
+  "answers4": ["😂 Reproducción infinita de videos de memes", "🔥 Incendiar chats grupales", "🎧 Escuchar música antes de dormir", "🐶 Ver videos de cachorros"],
+  "question5": "¿Qué dice la gente a menudo cuando te ve?",
+  "answers5": ["⚡️ Super insider de alta energía", "😹 La persona más divertida del mundo", "🍬 Dulzura nivel máximo", "🧠 Chico/a cerebro-sexy"],
+  "question6": "Si de repente te hicieras rico, ¿qué es lo primero que harías?",
+  "answers6": ["🐾 ¡Irme de viaje inmediatamente!", "🛒 Comprar cosas que quería", "😎 Invertir/planificar", "🎁 Presumir con la gente de alrededor"],
+  "question7": "¿Con qué meme de perro te sientes más identificado?",
+  "answers7": ["😁 Explosión de energía Beagle", "🐕‍🦺 Frialdad nivel Shiba Inu", "🐩 Ternura de Maltés", "🦮 Naturaleza gentil de Golden Retriever"],
+  "loading": "Analizando resultados...",
+  "show_result": "Ver Resultados",
+  "copy_alert": "¡URL copiada!",
+  "share_result": "Compartir Resultados",
+  "share_app": "Compartir App",
+
+  "result1": "🪩🤪🐶 Vida de Beagle Descontrolado 🐶🤪🪩\n¡Tú que sumerges al mundo en caos con tu energía hoy también!\n• Ametralladora de TMI, velocidad de chistes 5G\n• Presencia ilimitada en cualquier lugar del barrio\n• Modo 'llamar la atención' activado sin aviso\n• ¡Responsable del virus de felicidad + gritos grupales!\n✨ Tip Beagle Auténtico: Incluso si se pone incómodo, yo me hago cargo.\n'Guau-guau Big Bang'🌟",
+  "result2": "😏🐕‍🦺 Shiba Chic Super Insider 🐕‍🦺😏\nLa estética del tsundere, fingiendo ser cool pero te gusta jugar solo,\n¡cuando accidentalmente te ríes es un verdadero desafío de aguantar la risa!\n• \"Ay, esto es medio... 😐\"\n• Tocando corazones de amigos como si nada\n• Rey interno de la amistad, tsundere externo\n✨ Tip Shiba: ¡A veces hasta tu cara de 'te voy a comer' es tierna!\n\"Todos caen rendidos ante mi encanto\"",
+  "result3": "💫🐩 Hada Maltés Adorable 🐩💫\n¡Sabelotodo monísimo, misteriosamente hasta la terquedad se ve tierna!\n• Caprichoso pero amado\n• Menú combo: coquetería, timidez, ambición\n• ¡Stamp de \"Si es tierno, todo se perdona\"!\n✨ Tip Malti: A veces activa audazmente el potencial de ternura\n\"Por más que hables y hables, la ternura nunca se acaba\"",
+  "result4": "🥹🦮 Bot de Elogios Golden Retriever Dulce 🦮🥹\n¡Maestro de sanación irresistible! Animador silencioso en lugar de meterse y regañar\n• Con una sola mirada, todo se perdona\n• El más tierno del mundo, polarizante nivel menta-chocolate\n• Confiabilidad de quedarse hasta el final\n✨ Tip Retriever: \"¿Hoy también te sientes bien, guau?\"\n¡En serio desafiando la vida bendecida!"
+}
